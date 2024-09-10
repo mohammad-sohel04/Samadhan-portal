@@ -19,7 +19,6 @@
 - **Authentication**: Google OAuth
 
 ### Project Details
-- **Duration**: March 2024 - May 2024
 - **Team**: 2 Members
 - **Role**: Developer
 
